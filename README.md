@@ -1,5 +1,11 @@
 - hello git
   
+<<<<<<< HEAD
 -  checkout new branch and add text ; change test by hot_fix
 
 - hot fix text for hotfix_branch
+=======
+-  checkout new branch and add text
+
+-  second test branch commmit  
+>>>>>>> 42d53fa (feat: test branch second commit)
