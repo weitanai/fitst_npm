@@ -1,1 +1,0 @@
-const gitName = 'hello world';
